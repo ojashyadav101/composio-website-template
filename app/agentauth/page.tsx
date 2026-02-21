@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "Composio - Agent Auth",
+  title: "Lucy - Agent Auth",
   description:
     "We take care of app authentication for your agents, freeing you up to focus on building great AI products.",
 };

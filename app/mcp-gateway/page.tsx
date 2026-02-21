@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "Composio - MCP Gateway",
+  title: "Lucy - MCP Gateway",
   description:
     "Access over 500 apps via a single MCP server while managing and monitoring all their connections.",
 };

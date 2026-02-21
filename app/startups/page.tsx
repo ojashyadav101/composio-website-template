@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "Composio - For Startups",
+  title: "Lucy - For Startups",
   description:
     "Ship integrations faster than your standup. We handle the pesky OAuth part, so you can ship features that matter.",
 };

@@ -3,9 +3,9 @@ import fs from "fs";
 import path from "path";
 
 export const metadata: Metadata = {
-  title: "Composio - Support",
+  title: "Lucy - Support",
   description:
-    "Build agents that do more. Composio gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code.",
+    "Build agents that do more. Lucy gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code.",
 };
 
 export default function SupportPage() {

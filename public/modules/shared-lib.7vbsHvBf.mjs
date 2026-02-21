@@ -1,3 +1,3 @@
-import{t as e}from"./rolldown-runtime.CZoGl-k8.mjs";function t(e,t){return{description:`Build agents that do more. Composio gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code
-`,favicon:`../assets/SgcWBR8kqdnzFEvtK6zt06v9Riw.png`,robots:`max-image-preview:large`,socialImage:`../assets/yliBxepU9eolJ55BigeFzrw1j2o.png`,title:`Composio - Skills that evolve with your Agents`}}var n=e((()=>{}));export{t as n,n as t};
+import{t as e}from"./rolldown-runtime.CZoGl-k8.mjs";function t(e,t){return{description:`Your most capable colleague. Lucy gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code
+`,favicon:`../assets/SgcWBR8kqdnzFEvtK6zt06v9Riw.png`,robots:`max-image-preview:large`,socialImage:`../assets/yliBxepU9eolJ55BigeFzrw1j2o.png`,title:`Lucy - Workflows that run on their own`}}var n=e((()=>{}));export{t as n,n as t};
 //# sourceMappingURL=shared-lib.7vbsHvBf.mjs.map

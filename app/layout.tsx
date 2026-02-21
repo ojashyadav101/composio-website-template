@@ -2,21 +2,21 @@ import type { Metadata } from "next";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Composio - Skills that evolve with your Agents",
+  title: "Lucy - Your most capable colleague",
   description:
-    "Build agents that do more. Composio gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code.",
+    "An invisible teammate that handles your repetitive tasks, reports, and automations silently in the background.",
   openGraph: {
-    title: "Composio - Skills that evolve with your Agents",
+    title: "Lucy - Your most capable colleague",
     description:
-      "Build agents that do more. Composio gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code.",
+      "An invisible teammate that handles your repetitive tasks, reports, and automations silently in the background.",
     images: ["/images/yliBxepU9eolJ55BigeFzrw1j2o.png"],
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Composio - Skills that evolve with your Agents",
+    title: "Lucy - Your most capable colleague",
     description:
-      "Build agents that do more. Composio gives you SDKs to let your AI agents interact with apps like Gmail, Slack, Github, Linear, Notion, HubSpot, etc with a few lines of code.",
+      "An invisible teammate that handles your repetitive tasks, reports, and automations silently in the background.",
     images: ["/images/yliBxepU9eolJ55BigeFzrw1j2o.png"],
   },
   icons: {
@@ -98,7 +98,7 @@ export default function RootLayout({
   return (
     <html lang="en-US">
       <head>
-        {/* Original Framer CSS — exact styles from composio.com */}
+        {/* Original Framer CSS — exact styles from lucy.com */}
         <link rel="stylesheet" href="/framer-original.css" />
 
         {/* Framer module preloads */}
